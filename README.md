@@ -25,16 +25,16 @@ unify
   #  4. Chat and Unify with others.
 
 
-how to install ?
+# how to install ?
 
-  >Download the zip
-  >Clone to this repository.
-  >Run npm install to install the front end dependencies.
-  >install Flask dependencies
-  >navigate to api and activate the virtual environment 
-  >".\venv\Scripts\activate" command to activate the virtual environment
-  >now run the app
-  >"flask run" command to run server
-  >In a second terminal window, from the top directory 
-  >run "yarn start" to start the React server.
-  >Navigate to http://localhost:3000 on your web browser. Pick a username and log in. The app does not do password validation, so any name will be accepted.
+ # >Download the zip
+ # >Clone to this repository.
+ # >Run npm install to install the front end dependencies.
+ # >install Flask dependencies
+ # >navigate to api and activate the virtual environment 
+ # >".\venv\Scripts\activate" command to activate the virtual environment
+ # >now run the app
+ # >"flask run" command to run server
+ # >In a second terminal window, from the top directory 
+ # >run "yarn start" to start the React server.
+ # >Navigate to http://localhost:3000 on your web browser. Pick a username and log in. The app does not do password validation, so any name will be accepted.
