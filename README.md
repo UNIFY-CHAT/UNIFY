@@ -37,4 +37,5 @@ unify
  # >"flask run" command to run server
  # >In a second terminal window, from the top directory 
  # >run "yarn start" to start the React server.
- # >Navigate to http://localhost:3000 on your web browser. Pick a username and log in. The app does not do password validation, so any name will be accepted.
+ # >Navigate to http://127.0.0.1:5000/ on your web browser. 
+ # GET UNIFY
