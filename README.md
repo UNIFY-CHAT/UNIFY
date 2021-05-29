@@ -6,7 +6,7 @@ unify
 
 
 # UNIFY CHAT WITH PEOPLE WORLDWIDE Interact with millions of people,know their thoughts, and what not .... !
- Join Unify and get diversify
+# Join Unify and get diversify
  What can we do in Unify?
      => create
          Create your own room , invite your friends chat about stuffs, discuss about anything to anyone or to everyone .
