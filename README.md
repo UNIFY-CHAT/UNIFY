@@ -52,10 +52,8 @@ unify
      ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(52).png?raw=true)
       ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(53).png?raw=true)
        ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(54).png?raw=true)
-        ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(55).png?raw=true)
+
          ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(56).png?raw=true)
           ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(57).png?raw=true)
            ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(58).png?raw=true)
   ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(59).png?raw=true)
- ![name-of-you-image](https://github.com/UNIFY-CHAT/unify/blob/master/screenshorts/Screenshot%20(58).png?raw=true)
-
